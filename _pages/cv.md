@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -11,7 +11,7 @@ redirect_from:
 
 ## Professional Experience
 
-**Senior Principal Engineer** · Hewlett Packard Enterprise (HPE) HPC/AI Business Unit  
+**Senior Principal Engineer** Â· HPE HPC/AI Business Unit  
 *Present*
 
 Research and development in high-performance computing, disaggregated memory architectures, Fabric Attached Memory (FAM), distributed storage systems (DAOS, OpenFAM), resiliency frameworks, and programming models for HPC and AI workloads. Inventor on 32 patents; 15 peer-reviewed publications.
@@ -21,19 +21,19 @@ Research and development in high-performance computing, disaggregated memory arc
 ## Service & Leadership
 
 **Industry Track Chair**, IEEE IC2E 2026  
-**Industry Track Program Chair**, IEEE IC2E 2024–2025  
+**Industry Track Program Chair**, IEEE IC2E 2024â€“2025  
 **SNIA Technical Council Advisor**  
-· Reviewed 70+ abstracts on NVMe-over-Fabrics, CXL, FAM, and memory tiering  
-· Shapes strategic direction for HPC storage standards  
+Â· Reviewed 70+ abstracts on NVMe-over-Fabrics, CXL, FAM, and memory tiering  
+Â· Shapes strategic direction for HPC storage standards  
 
-**Program Committee Member**, HPE Tech Con 2025–2026  
-**Reviewer**, HPE Tech Con 2023–2024  
+**Program Committee Member**, HPE Tech Con 2025â€“2026  
+**Reviewer**, HPE Tech Con 2023â€“2024  
 
 ---
 
 ## Patents
 
-32 patents total — 3 granted US patents, 1 granted India patent, 1 granted in India; 29+ pending across US, Germany, China, and India.
+32 patents total â€” 3 granted US patents, 1 granted India patent, 1 granted in India; 29+ pending across US, Germany, China, and India.
 
 | Patent ID | Title | Status |
 |-----------|-------|--------|
@@ -50,7 +50,7 @@ Research and development in high-performance computing, disaggregated memory arc
 | P171582US | Auto-Scaling, Resilient, and Load Balancing Framework for Workload Deployment | Pending |
 | P178527USPRV | Memory Management for In-Memory Databases and Query Engines for Agentic AI Systems | Pending |
 
-[→ Full patent portfolio](/patents/)
+[â†’ Full patent portfolio](/patents/)
 
 ---
 
@@ -60,3 +60,4 @@ Research and development in high-performance computing, disaggregated memory arc
 {% for post in publications_sorted %}
   {% include archive-single-cv.html %}
 {% endfor %}
+
