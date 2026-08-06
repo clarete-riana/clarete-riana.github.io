@@ -11,10 +11,10 @@ redirect_from:
 
 ## Professional Experience
 
-**Senior Principal Engineer** · Hewlett Packard Enterprise (HPE) Labs  
+**Senior Principal Engineer** · Hewlett Packard Enterprise (HPE) HPC/AI Business Unit  
 *Present*
 
-Research and development in high-performance computing, disaggregated memory architectures, Fabric Attached Memory (FAM), distributed storage systems (DAOS, OpenFAM), and resilient computing frameworks. Inventor on 32 patents; 15 peer-reviewed publications.
+Research and development in high-performance computing, disaggregated memory architectures, Fabric Attached Memory (FAM), distributed storage systems (DAOS, OpenFAM), resiliency frameworks, and programming models for HPC and AI workloads. Inventor on 32 patents; 15 peer-reviewed publications.
 
 ---
 

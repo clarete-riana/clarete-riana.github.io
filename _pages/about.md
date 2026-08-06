@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Principal Engineer at [Hewlett Packard Enterprise (HPE) Labs](https://www.hpe.com/us/en/hewlett-packard-labs.html), where I lead research and development in high-performance computing, disaggregated memory architectures, and distributed storage systems. My work focuses on **Fabric Attached Memory (FAM)**, global client-side caching for exascale HPC and AI workloads, and resilient distributed task execution frameworks—enabling applications to efficiently leverage disaggregated memory at scale.
+I am a Senior Principal Engineer at Hewlett Packard Enterprise (HPE) HPC/AI Business Unit, where I lead research and development in high-performance computing, disaggregated memory architectures, and distributed storage systems. My work focuses on **Fabric Attached Memory (FAM)**, global client-side caching for exascale HPC and AI workloads, and resilient distributed task execution frameworks—enabling applications to efficiently leverage disaggregated memory at scale.
 
 I have contributed to **15 peer-reviewed publications** in venues including CUG (Cray/HPE User Group), SNIA, Workshop on OpenSHMEM and Related Technologies, SC Workshops, and Chapel User Group (CHIUW), and hold **32 patents** covering innovations in disaggregated memory, caching architectures, burst sorting, and resilient computing. I serve as **Industry Track Chair for [IEEE IC2E 2026](https://conferences.computer.org/IC2E/)** and am a **[SNIA Technical Council Advisor](https://www.snia.org/tech_activities/standards/curr_standards/ssc)**, where I review and help guide emerging storage and memory technologies.
 
@@ -17,7 +17,8 @@ I have contributed to **15 peer-reviewed publications** in venues including CUG 
 - Fabric Attached Memory (FAM) and disaggregated memory architectures
 - High-performance distributed storage systems (DAOS, OpenFAM)
 - Global client-side caching and data locality optimization for HPC and AI
-- Resilient task-based computing and work-stealing frameworks
+- Resiliency: fault-tolerant task execution, silent data corruption detection, work-stealing frameworks
+- Programming models for HPC and disaggregated memory (OpenFAM, OpenSHMEM, Chapel)
 - Memory-centric computing; CXL, NVMe-over-Fabrics, and persistent memory
 - Agentic AI systems: memory management for in-memory databases and query engines
 

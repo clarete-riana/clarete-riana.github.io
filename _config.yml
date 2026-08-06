@@ -1,12 +1,12 @@
-﻿# Site Settings
+# Site Settings
 locale                   : "en-US"
 title                    : "Clarete Crasta"
 title_separator          : "-"
 name                     : &name "Clarete Crasta"
-description              : &description "Senior Principal Engineer at HPE Labs | Distributed Systems, HPC, Disaggregated Memory"
-url                      : https://clarete-riana.github.io
+description              : &description "Senior Principal Engineer at HPE HPC/AI BU | Distributed Systems, HPC, Disaggregated Memory"
+url                      : https://ClareteCrasta.github.io
 baseurl                  : ""
-repository               : "clarete-riana/clarete-riana.github.io"
+repository               : "ClareteCrasta/ClareteCrasta.github.io"
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
@@ -38,8 +38,8 @@ social:
   type                   : Person
   name                   : *name
   links:
-    - https://www.linkedin.com/in/clarete-riana   # TODO: update with your actual LinkedIn handle
-    - https://github.com/clarete-riana
+    - https://www.linkedin.com/in/claretecrasta   # TODO: update with your actual LinkedIn handle
+    - https://github.com/ClareteCrasta
 
 # Analytics
 analytics:
@@ -51,7 +51,7 @@ analytics:
 author:
   name             : *name
   avatar           : "profile.jpg"
-  bio              : "Senior Principal Engineer, HPE Labs. Distributed Systems Â· HPC Â· Disaggregated Memory Â· FAM Â· Caching Architectures."
+  bio              : "Senior Principal Engineer, HPE HPC/AI BU. Distributed Systems · HPC · Disaggregated Memory · FAM · Resiliency · Programming Models."
   location         : "United States"
   employer         : "Hewlett Packard Enterprise"
   pubmed           :
@@ -65,13 +65,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "clarete-riana"
+  github           : "ClareteCrasta"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "clarete-riana"  # TODO: update with your actual LinkedIn handle
+  linkedin         : "claretecrasta"  # TODO: update with your actual LinkedIn handle
   orcid            :  # TODO: add if you have an ORCID iD
   pinterest        :
   soundcloud       :
@@ -183,4 +183,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
