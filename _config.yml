@@ -4,9 +4,9 @@ title                    : "Clarete Crasta"
 title_separator          : "-"
 name                     : &name "Clarete Crasta"
 description              : &description "Senior Principal Engineer at HPE HPC/AI BU | Distributed Systems, HPC, Disaggregated Memory"
-url                      : https://ClareteCrasta.github.io
+url                      : https://clarete-riana.github.io
 baseurl                  : ""
-repository               : "ClareteCrasta/ClareteCrasta.github.io"
+repository               : "clarete-riana/clarete-riana.github.io"
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
@@ -39,7 +39,7 @@ social:
   name                   : *name
   links:
     - https://www.linkedin.com/in/claretecrasta   # TODO: update with your actual LinkedIn handle
-    - https://github.com/ClareteCrasta
+    - https://github.com/clarete-riana
 
 # Analytics
 analytics:
@@ -53,7 +53,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Senior Principal Engineer, HPE HPC/AI BU. Distributed Systems | HPC | Disaggregated Memory | FAM | Resiliency | Programming Models."
   location         : "United States"
-  employer         : "Hewlett Packard Enterprise"
+  employer         : "HPE HPC/AI Business Unit"
   pubmed           :
   googlescholar    :  # TODO: add your Google Scholar URL, e.g. "https://scholar.google.com/citations?user=XXXXXXX"
   email            :  # TODO: add your email
@@ -65,7 +65,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ClareteCrasta"
+  github           : "clarete-riana"
   google_plus      :
   keybase          :
   instagram        :
