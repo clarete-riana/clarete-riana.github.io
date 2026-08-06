@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Principal Engineer at HPE HPC/AI Business Unit, where I lead research and development in high-performance computing, disaggregated memory architectures, and distributed storage systems. My work focuses on **Fabric Attached Memory (FAM)**, global client-side caching for exascale HPC and AI workloads, and resilient distributed task execution frameworksâ€”enabling applications to efficiently leverage disaggregated memory at scale.
+I am a Senior Principal Engineer at Hewlett Packard Enterprise (HPE) HPC/AI Business Unit, where I lead research and development in high-performance computing, disaggregated memory architectures, and distributed storage systems. My work focuses on **Fabric Attached Memory (FAM)**, global client-side caching for exascale HPC and AI workloads, and resilient distributed task execution frameworks -- enabling applications to efficiently leverage disaggregated memory at scale.
 
 I have contributed to **15 peer-reviewed publications** in venues including CUG (Cray/HPE User Group), SNIA, Workshop on OpenSHMEM and Related Technologies, SC Workshops, and Chapel User Group (CHIUW), and hold **32 patents** covering innovations in disaggregated memory, caching architectures, burst sorting, and resilient computing. I serve as **Industry Track Chair for [IEEE IC2E 2026](https://conferences.computer.org/IC2E/)** and am a **[SNIA Technical Council Advisor](https://www.snia.org/tech_activities/standards/curr_standards/ssc)**, where I review and help guide emerging storage and memory technologies.
 
@@ -33,4 +33,3 @@ I have contributed to **15 peer-reviewed publications** in venues including CUG 
 - **[2025]** Program Committee Member, HPE Tech Con 2025 & 2026.
 - **[2024]** US Patent granted: *Client Update of Data Modification Tracking Structure* (Oct 2024).
 - **[2024]** Presented *FAM Support in OpenSHMEM* at Cray Users Group Australia 2024.
-

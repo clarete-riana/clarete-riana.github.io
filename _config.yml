@@ -1,4 +1,4 @@
-﻿# Site Settings
+# Site Settings
 locale                   : "en-US"
 title                    : "Clarete Crasta"
 title_separator          : "-"
@@ -51,9 +51,9 @@ analytics:
 author:
   name             : *name
   avatar           : "profile.jpg"
-  bio              : "Senior Principal Engineer, HPE HPC/AI BU. Distributed Systems Â· HPC Â· Disaggregated Memory Â· FAM Â· Resiliency Â· Programming Models."
+  bio              : "Senior Principal Engineer, HPE HPC/AI BU. Distributed Systems | HPC | Disaggregated Memory | FAM | Resiliency | Programming Models."
   location         : "United States"
-  employer         : "HPE HPC/AI Business Unit"
+  employer         : "Hewlett Packard Enterprise"
   pubmed           :
   googlescholar    :  # TODO: add your Google Scholar URL, e.g. "https://scholar.google.com/citations?user=XXXXXXX"
   email            :  # TODO: add your email
@@ -183,4 +183,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
